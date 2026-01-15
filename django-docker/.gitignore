@@ -2,4 +2,8 @@ __pycache__/
 *.pyc
 .env
 .sh
+../SHELL-DEMO
+../demo-git
+../terraform-aws-lab
+*.swp
 db.sqlite3
